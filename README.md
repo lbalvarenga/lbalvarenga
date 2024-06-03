@@ -6,6 +6,8 @@ O P E R A
 R O T A S
 ```
 
+<!-- By Lucas -->
+
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lal-lucas-alvarenga) -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=lbalvarenga&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
